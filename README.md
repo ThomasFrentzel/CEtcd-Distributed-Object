@@ -21,7 +21,7 @@ Additionally, a client is developed to test all the operations of the distribute
 
 ## System Architecture
 
-![CEtcd Distributed Object Architecture](path_to_image)
+![architecture](https://github.com/user-attachments/assets/e44e06ef-f39d-48d0-9655-57710a5bbcc1)
 
 ---
 
