@@ -61,9 +61,10 @@ The data is managed in an internal `std::map<std::string, std::string> serverDb`
    - Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/ThomasFrentzel/CEtcd-Distributed-Object
-2. **Compile the Project**: Use a C++ compiler with CORBA support (e.g., TAO or ACE) to compile the files.
-3. **Run the Server**: Start the server to initialize the **CEtcd** distributed object. This will register the object with the CORBA naming service.
-4. **Test with Client**: Run the provided client application to test the functionality:
+   ```
+2. Make sure the etcd library is installed and properly configured on your machine for the client to interact with the distributed object system.
+   
+3. **Test with Client**: Run the provided client application to test the functionality:
    - Use `put(key, val)` to add or update key-value pairs.
    - Use `get(key)` to retrieve values by key.
    - Use `del(key)` to remove key-value pairs.
