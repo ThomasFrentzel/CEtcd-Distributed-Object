@@ -58,7 +58,6 @@ The data is managed in an internal `std::map<std::string, std::string> serverDb`
 ### How to Use
 
 1. **Clone the Repository**: 
-   - Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/ThomasFrentzel/CEtcd-Distributed-Object
    ```
