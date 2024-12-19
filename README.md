@@ -21,7 +21,7 @@ Additionally, a client is developed to test all the operations of the distribute
 
 ## System Architecture
 
-![architecture](https://github.com/user-attachments/assets/e44e06ef-f39d-48d0-9655-57710a5bbcc1)
+<img src="https://github.com/user-attachments/assets/e44e06ef-f39d-48d0-9655-57710a5bbcc1" width="800" />
 
 ---
 
